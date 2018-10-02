@@ -97,6 +97,8 @@
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
+- [Pango Bright](https://pangobright.com/) - PangoBright is a free "screen dimmer" Windows utility for setting the brightness of your main screen as well as external monitors. You can choose which screens will be set to the selected brightness level.
+
 
 ### Data Recovery
 
